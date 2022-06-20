@@ -1,5 +1,5 @@
 # coseg_building
-This code respository is for the paper: "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions" in International Journal of Applied Earth Observation and Geoinformation
+This code respository is for the paper: "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions" in International Journal of Applied Earth Observation and Geoinformation.
 Please cite it when you think this code is helpful for your research.
 
 @article{LI2022102824,
